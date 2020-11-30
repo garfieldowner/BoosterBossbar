@@ -1,0 +1,5 @@
+name: BoosterBossbar
+version: ${project.version}
+main: com.hayesdev.boosterbossbar.BoosterBossbar
+authors: [ HayesDev ]
+description: A plugin made for NerdOwner
